@@ -27,10 +27,11 @@ This project is a lightweight, friendly chatbot built using **Streamlit** and **
 
 ## 📸 Screenshots
 
-![Chatbot Screenshot](https://i.imgur.com/2lWgTcT.png)
+![image](https://github.com/user-attachments/assets/c7501f5e-aef2-4498-9414-764abb04b185)
+
 
 ---
 
 ## 🔗 Deployed Link
 
-👉 [Try the Chatbot](https://your-chatbot-link.streamlit.app)
+👉 https://3qtckzpvke53u3nthquyqn.streamlit.app/
