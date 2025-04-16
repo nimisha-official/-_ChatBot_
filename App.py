@@ -11,7 +11,7 @@ os.environ["GROQ_API_KEY"] = st.secrets["GROQ_API_KEY"]
 os.environ["LANGCHAIN_TRACING_V2"] = "true"  
 
 # Initialize Groq Model with Streaming Enabled
-model = ChatGroq(model_name="mixtral-8x7b-32768", streaming=True, max_completion_tokens=1000)
+model = ChatGroq(model_name="mistral-saba-24b", streaming=True, max_completion_tokens=1000)
 
 # Streamlit UI
 st.title("🤖 Chatbot 🤖")
